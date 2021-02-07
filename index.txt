@@ -1,4 +1,4 @@
-TITULO: Lista de DevOps da Alura
+TITULO: Lista de CURSOS da Alura
 
 TOPICOS: COMMITES
 TOPICOS: FAZENDO COM O DOCCKER
